@@ -69,14 +69,6 @@
           <e p="ProductService.cs" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
-        <e p="Tools" t="Include">
-          <e p="Managers" t="Include">
-            <e p="ConnectionManager.cs" t="Include" />
-          </e>
-        </e>
-        <e p="WebForms" t="Include">
-          <e p="MainForm.html" t="Include" />
-        </e>
       </e>
       <e p="ProductsAndOrders.sln" t="IncludeFlat" />
       <e p="ProductsAndOrders.Tests" t="IncludeRecursive">
