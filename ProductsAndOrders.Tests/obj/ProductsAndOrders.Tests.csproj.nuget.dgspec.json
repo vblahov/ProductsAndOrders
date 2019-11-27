@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/ProductsAndOrders.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/ProductsAndOrders.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/ProductsAndOrders.Tests.csproj",
+        "projectName": "ProductsAndOrders.Tests",
+        "projectPath": "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/ProductsAndOrders.Tests.csproj",
+        "packagesPath": "/Users/vladyslav.blahov/.nuget/packages/",
+        "outputPath": "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vladyslav.blahov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/ProductsAndOrders.csproj": {
+                "projectPath": "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/ProductsAndOrders.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/ProductsAndOrders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/ProductsAndOrders.csproj",
+        "projectName": "ProductsAndOrders",
+        "projectPath": "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/ProductsAndOrders.csproj",
+        "packagesPath": "/Users/vladyslav.blahov/.nuget/packages/",
+        "outputPath": "/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vladyslav.blahov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0-preview3-19553-01, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[2.0.0-preview1-final, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0-preview3.19551.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

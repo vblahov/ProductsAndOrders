@@ -1,0 +1,17 @@
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/obj/Debug/netcoreapp2.2/ProductsAndOrders.Tests.csprojAssemblyReference.cache
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/obj/Debug/netcoreapp2.2/ProductsAndOrders.Tests.csproj.CoreCompileInputs.cache
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/obj/Debug/netcoreapp2.2/ProductsAndOrders.Tests.AssemblyInfoInputs.cache
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/obj/Debug/netcoreapp2.2/ProductsAndOrders.Tests.AssemblyInfo.cs
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/ProductsAndOrders.Tests.deps.json
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/ProductsAndOrders.Tests.runtimeconfig.json
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/ProductsAndOrders.Tests.runtimeconfig.dev.json
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/ProductsAndOrders.Tests.dll
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/ProductsAndOrders.Tests.pdb
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/ProductsAndOrders.dll
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/bin/Debug/netcoreapp2.2/ProductsAndOrders.pdb
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/obj/Debug/netcoreapp2.2/ProductsAndOrders.Tests.csproj.CopyComplete
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/obj/Debug/netcoreapp2.2/ProductsAndOrders.Tests.dll
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders.Tests/obj/Debug/netcoreapp2.2/ProductsAndOrders.Tests.pdb

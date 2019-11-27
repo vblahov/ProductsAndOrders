@@ -1,0 +1,14 @@
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/bin/Debug/netcoreapp2.2/ProductsAndOrders.deps.json
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/bin/Debug/netcoreapp2.2/ProductsAndOrders.runtimeconfig.json
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/bin/Debug/netcoreapp2.2/ProductsAndOrders.runtimeconfig.dev.json
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/bin/Debug/netcoreapp2.2/ProductsAndOrders.dll
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/bin/Debug/netcoreapp2.2/ProductsAndOrders.pdb
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/Debug/netcoreapp2.2/ProductsAndOrders.csprojAssemblyReference.cache
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/Debug/netcoreapp2.2/ProductsAndOrders.csproj.CoreCompileInputs.cache
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/Debug/netcoreapp2.2/ProductsAndOrders.RazorAssemblyInfo.cache
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/Debug/netcoreapp2.2/ProductsAndOrders.RazorAssemblyInfo.cs
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/Debug/netcoreapp2.2/ProductsAndOrders.AssemblyInfoInputs.cache
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/Debug/netcoreapp2.2/ProductsAndOrders.AssemblyInfo.cs
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/Debug/netcoreapp2.2/ProductsAndOrders.RazorTargetAssemblyInfo.cache
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/Debug/netcoreapp2.2/ProductsAndOrders.dll
+/Users/vladyslav.blahov/RiderProjects/ProductsAndOrders/ProductsAndOrders/obj/Debug/netcoreapp2.2/ProductsAndOrders.pdb
